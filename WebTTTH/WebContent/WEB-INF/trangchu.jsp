@@ -9,7 +9,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Home</title>
+	<title>Trang Chủ</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!--bootstrap & Jquery-->
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
@@ -66,7 +66,7 @@
 					</li>			
 					<%} %>		
 					<li class="sdt"><span class="glyphicon glyphicon-earphone"></span>(+84)98777777 </li>
-					<li class="gmail"><span class="	glyphicon glyphicon-envelope"></span>ITCENTER2017@GMAIL.COM</li>
+					<li class="gmail"><span class="	glyphicon glyphicon-envelope"></span>ITCENTER2021@GMAIL.COM</li>
 				</ul>
 			</div>
 		</div>
@@ -239,8 +239,8 @@
 				    	</a>
 				  	</div>
 				  	<div class="post-date">
-				  		<span class="day">30</span>
-				  		<span class="month">Oct</span>
+				  		<span class="day">12</span>
+				  		<span class="month">2021</span>
 				  	</div>
 				  	<div class="caption hometext">
 				        <h4>${list.coursename } </h4>
@@ -260,8 +260,8 @@
 				    </a>
 				</div>
 				<div class="post-date">
-			  		<span class="day">30</span>
-			  		<span class="month">Oct</span>
+			  		<span class="day">12</span>
+			  		<span class="month">2021</span>
 			  	</div>
 			  	<div class="caption hometext">
 			        <h4>${list.coursename } </h4>
@@ -286,16 +286,16 @@
 					<div class="carousel-inner" role="listbox">
 						<div class="item active">
 							<h4 style="color: #f7f7f7;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-							 <br><span>Nguyễn A , Đại học SPKT tp HCM </span>
+							 <br><span>Lê Thái Anh - K68B - CNTT - ĐHSPHN </span>
 							</h4>
 						</div>
 						<div class="item">
 							<h4 style="color: #f7f7f7;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor."
-							<br><span>Mỹ Linh </span>
+							<br><span>Lê Hoàng Thiên Phong</span>
 							</h4>
 						</div>
 						<div class="item">
-							<h4 style="color: #f7f7f7;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor."<br><span>Mỹ Lê, sinh viên </span>
+							<h4 style="color: #f7f7f7;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor."<br><span>Nguyễn Viết Thắng - Leader FPT</span>
 							</h4>
 						</div>
 					</div>
@@ -351,7 +351,7 @@
 					        <a href="News_Info?news_id=${list_news.news_id}" class="non-textdecoration" target="_blank">
 					       	 <h4>${list_news.title }</h4>
 					        </a>
-					        <p style="font-size: 15px; color:#7c7c86;">By Joe Doe</p>
+					        <p style="font-size: 15px; color:#7c7c86;">By Some One</p>
 					    </div>
 					    <p style="font-size: 15px; color:#7c7c86; padding-top: 25px; text-align: left;">
 					    ${content }...
@@ -406,9 +406,9 @@
 								<h3 class="titlefooter">Contact</h3>
 									<div  style="padding-top: 17px;">
 										<ul class="textwidget">
-											<li style="font-size: 14px;"><i class="fa fa-map-marker" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;Số 1, Võ Văn Ngân, Thủ Đức, TP Hồ Chí Minh, Việt Nam</li>
+											<li style="font-size: 14px;"><i class="fa fa-map-marker" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;Số 13, Trần Thái Tông, Thanh Xuân, Hà Nội</li>
 											<li style="font-size: 14px;padding-top: 15px;"><i class="fa fa-phone" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;(+84)1869123456</li>
-											<li style="font-size: 14px;padding-top: 15px;"><i class="fa fa-envelope" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;<a class="non-textdecoration lstfooter" href="#">itcenter2017@gmail.com</a></li>
+											<li style="font-size: 14px;padding-top: 15px;"><i class="fa fa-envelope" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;<a class="non-textdecoration lstfooter" href="#">itcenter2021@gmail.com</a></li>
 										</ul>
 									</div>
 							</div>
@@ -419,7 +419,7 @@
 			<div class="footer-bottom">
 				<div class="container">
 					<div class="footer-center">
-						© Copyright 2017. All Rights Reserved</br>Powered and Designed by Khang & Mỹ & Duyên
+						© Copyright 2021. All Rights Reserved</br>Powered and Designed by Nhóm 6 - CNPM
 					</div>
 				</div>
 			</div>

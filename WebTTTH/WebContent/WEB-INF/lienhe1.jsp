@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Liên hệ</title>
+	<title>Liên hệ 1</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!--bootstrap & Jquery-->
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
@@ -53,7 +53,7 @@
 					</li>			
 					<%} %>						
 					<li class="sdt"><span class="glyphicon glyphicon-earphone"></span>(+84)98777777 </li>
-					<li class="gmail"><span class="	glyphicon glyphicon-envelope"></span>ITCENTER2017@GMAIL.COM</li>
+					<li class="gmail"><span class="	glyphicon glyphicon-envelope"></span>ITCENTER2021@GMAIL.COM</li>
 				</ul>
 			</div>
 		</div>
@@ -157,7 +157,7 @@
 	<!--===============GOOGLE MAP==================-->
 	<div class="col-ms-12"> 
 	  	<div id="map" style="width:100%;height:400px;">
-	  		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.479840319647!2d106.76982351418313!3d10.851061660780243!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175270ad28d48ab%3A0xa6c02de0a7c40d6c!2zVHLGsOG7nW5nIMSQ4bqhaSBo4buNYyBTxrAgcGjhuqFtIEvhu7kgdGh14bqtdCBUcC4gSOG7kyBDaMOtIE1pbmg!5e0!3m2!1svi!2s!4v1514609370499" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	  		<iframe src="https://www.google.com/maps/embed?pb=" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 	  	</div>
 	</div>
 	<!--
@@ -201,9 +201,9 @@
 								<h3 class="titlefooter">Contact</h3>
 									<div  style="padding-top: 17px;">
 										<ul class="textwidget">
-											<li style="font-size: 14px;"><i class="fa fa-map-marker" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;Số 1, Võ Văn Ngân, Thủ Đức, TP Hồ Chí Minh, Việt Nam</li>
+											<li style="font-size: 14px;"><i class="fa fa-map-marker" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;Số 12, Trần Thái Tông, Thanh Xuân, Hà Nội</li>
 											<li style="font-size: 14px;padding-top: 15px;"><i class="fa fa-phone" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;(+84)1869123456</li>
-											<li style="font-size: 14px;padding-top: 15px;"><i class="fa fa-envelope" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;<a class="non-textdecoration lstfooter" href="#">itcenter2017@gmail.com</a></li>
+											<li style="font-size: 14px;padding-top: 15px;"><i class="fa fa-envelope" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;<a class="non-textdecoration lstfooter" href="#">itcenter2021@gmail.com</a></li>
 										</ul>
 									</div>
 							</div>
@@ -214,7 +214,7 @@
 			<div class="footer-bottom">
 				<div class="container">
 					<div class="footer-center">
-						© Copyright 2017. All Rights Reserved</br>Powered and Designed by Khang & Mỹ & Duyên
+						© Copyright 2021. All Rights Reserved</br>Powered and Designed by Nhóm 6 - CNPM
 					</div>
 				</div>
 			</div>

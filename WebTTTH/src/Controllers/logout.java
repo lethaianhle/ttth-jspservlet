@@ -26,10 +26,10 @@ public class logout extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		HttpSession session = request.getSession(false);
 		session.invalidate();
-		if(request.getQueryString().length() > 10) {
-			RequestDispatcher rd= request.getRequestDispatcher("/WEB-INF/trangchu.jsp");
-			rd.forward(request, response);
-		}else {
+//		if(request.getQueryString().length() > 10) {
+//			RequestDispatcher rd= request.getRequestDispatcher("/WEB-INF/trangchu.jsp");
+//			rd.forward(request, response);
+//		}else {
 			//Cookie cookie1 = null;
 			Cookie cookie = null;
 			//xóa cookie
@@ -47,7 +47,7 @@ public class logout extends HttpServlet {
 			
 	        //về lại trang chủ
 			response.sendRedirect(this.getServletContext().getContextPath() + "/TrangChu");
-		}
+//		}
 	}
 
 }

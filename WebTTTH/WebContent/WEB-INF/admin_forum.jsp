@@ -132,75 +132,7 @@
                             <div class="clearfix"></div>
                             <form action="deleteNews" id="form1" method="post" onsubmit="return checkCheckBoxes(this)">
 	                            <div class="content table-responsive table-full-width">
-	                                <table id="tablepaging" class="table table-responsive ">
-	                                    <thead>
-	                                    	<th>&nbsp;</th>
-	                                    	<th>&nbsp;</th>
-	                                    	<th>&nbsp;</th>
-	                                    </thead>
-	                                    <tbody>
-                                    		<tr>
-                                    			<td>
-                                    				<div >
-                                                        <span class="avatar">
-                                                            <img src="images\thaoluan/hinh3.png" alt height="60" width="90">
-                                                        </span>
-	                                                </div>
-                                    			</td>
-	                                            <td>Đại sảnh</td>
-	                                            <td><a href="forumAdmin_topic?thread=1&name=Đại sảnh" 
-	                                            style="font-size: 16px; color: black; padding-left: 30px;" type="button" class="ti-arrow-right btn btn-default"> Go</a></td>
-                                        	</tr>
-                                        	<tr>
-                                    			<td>
-                                    				<div >
-                                                        <span class="avatar">
-                                                            <img src="images\thaoluan/hinh2.png" alt height="60" width="90">
-                                                        </span>
-	                                                </div>
-                                    			</td>
-	                                            <td>Góc lập trình</td>
-	                                            <td><a href="forumAdmin_topic?thread=2&name=Góc lập trình" 
-	                                            style="font-size: 16px; color: black; padding-left: 30px;" type="button" class="ti-arrow-right btn btn-default"> Go</a></td>
-                                        	</tr>
-                                        	<tr>
-                                    			<td>
-                                    				<div >
-                                                        <span class="avatar">
-                                                            <img src="images\thaoluan/ironman.jpg" alt height="60" width="90">
-                                                        </span>
-	                                                </div>
-                                    			</td>
-	                                            <td>Góc công nghệ</td>
-	                                            <td><a href="forumAdmin_topic?thread=3&name=Góc công nghệ" 
-	                                            style="font-size: 16px; color: black; padding-left: 30px;" type="button" class="ti-arrow-right btn btn-default"> Go</a></td>
-                                        	</tr>
-                                        	<tr>
-                                    			<td>
-                                    				<div >
-                                                        <span class="avatar">
-                                                            <img src="images\thaoluan/hinh0.png" alt height="60" width="90">
-                                                        </span>
-	                                                </div>
-                                    			</td>
-	                                            <td>Khu giải trí</td>
-	                                            <td><a href="forumAdmin_topic?thread=4&name=Khu giải trí" 
-	                                            style="font-size: 16px; color: black; padding-left: 30px;" type="button" class="ti-arrow-right btn btn-default"> Go</a></td>
-                                        	</tr>
-                                        	<tr>
-                                    			<td>
-                                    				<div >
-                                                        <span class="avatar">
-                                                            <img src="images\thaoluan/forum1.jpg" alt height="60" width="90">
-                                                        </span>
-	                                                </div>
-                                    			</td>
-	                                            <td>Thương mại & mua bán</td>
-	                                            <td><a href="forumAdmin_topic?thread=5&name=Thương mại mua bán" 
-	                                            style="font-size: 16px; color: black; padding-left: 30px;" type="button" class="ti-arrow-right btn btn-default"> Go</a></td>
-                                        	</tr>
-	                                    </tbody>
-	                                </table> 
+	                                <h1 style="text-align: center; color: red;">COMING SOON!</h1>
 	                                
 	                                <div id="pageNavPosition" style="padding-top: 20px" align="center"></div>
 	                        	</div>
@@ -225,7 +157,7 @@
                     </ul>
                 </nav>
                 <div class="copyright pull-right">
-                    &copy; <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by <a>Nhóm 6</a>
+                    &copy; <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by <a>Nhóm 6 - CNPM</a>
                 </div>
             </div>
         </footer>

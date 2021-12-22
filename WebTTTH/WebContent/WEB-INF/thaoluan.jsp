@@ -60,7 +60,7 @@
 					</li>			
 					<%} %>				
 					<li class="sdt"><span class="glyphicon glyphicon-earphone"></span>(+84)98777777 </li>
-					<li class="gmail"><span class="	glyphicon glyphicon-envelope"></span>ITCENTER2017@GMAIL.COM</li>
+					<li class="gmail"><span class="	glyphicon glyphicon-envelope"></span>ITCENTER2021@GMAIL.COM</li>
 				</ul>
 			</div>
 		</div>
@@ -121,67 +121,7 @@
 		<!--
 		==============================content===================================
 		-->
-		<div class="container gallery-agileinfo">
-			<div class="col-md-6 col-xs-6 gallery-w3lstop">
-				<figure class="effect-bubba forum1">
-					<a href="thaoluan_daisanh?topicID=1" class="swipebox">
-						<img src="images\thaoluan/hinh3.png" alt="" class="img-responsive" />
-						<div class="figcaption">
-							<h4>Đại sảnh</h4>
-							<p>Nơi hướng dẫn, thông báo, góp ý và chủ đề nóng</p>	
-						</div>	
-					</a>
-				</figure>
-			</div>
-			<div class="col-md-6 col-xs-6 gallery-w3lstop">
-				<figure class="effect-bubba forum2" >
-					<a href="thaoluan_goclaptrinh?topicID=4" class="swipebox" >
-						<img src="images\thaoluan/hinh2.png" alt="" class="img-responsive" />
-						<div class="figcaption">
-							<h4>Góc lập trình</h4>
-							<p>Hỏi đáp, bàn luận và trao đổi kiến thức về lập trình</p>	
-						</div>
-					</a>
-				</figure>
-			</div>
-
-			<div class="col-md-6 col-xs-6 gallery-w3lstop">
-				<figure class="effect-bubba forum3" >
-					<a href="thaoluan_goccongnghe?topicID=6" class="swipebox" >
-						<img src="images\thaoluan/ironman.jpg" alt="" class="img-responsive" />
-						<div class="figcaption">
-							<h4>Góc công nghệ</h4>
-							<p>Thiết bị di động, đồ điện tử và hỏi đáp công nghệ</p>	
-						</div>
-					</a>
-				</figure>
-			</div>
-			<div class="col-md-6 col-xs-6 gallery-w3lstop">
-				<figure class="effect-bubba forum4">
-					<a href="thaoluan_khugiaitri?topicID=9" class="swipebox">
-						<img src="images\thaoluan/hinh0.png" alt="" class="img-responsive" />
-						<div class="figcaption">
-							<h4>Khu giải trí</h4>
-							<p>Chuyện trò linh tinh</p>	
-						</div>	
-					</a>
-				</figure>
-			</div>
-			<div class="col-md-6 col-xs-6 gallery-w3lstop">
-				<figure class="effect-bubba forum5" >
-					<a href="thaoluan_thuongmaivamuaban?topicID=11" class="swipebox" >
-						<img src="images\thaoluan/hinh4.png" alt="" class="img-responsive" />
-						<div class="figcaption">
-							<h4>Thương mại & mua bán</h4>
-							<p>Khu trao đổi bàn luận, mua bán</p>	
-						</div>
-					</a>
-				</figure>
-			</div>
-		</div>
-	
-	
-	
+			<h1 style="text-align: center;">Xin lỗi! Chúng tôi hiện đang phát triển chức năng này</h1>
 		<!--
 	==========================Footer================
 	-->
@@ -223,9 +163,9 @@
 								<h3 class="titlefooter2">Contact</h3>
 									<div  style="padding-top: 17px;">
 										<ul class="textwidget">
-											<li style="font-size: 14px;"><i class="fa fa-map-marker" style="font-size:20px;color:rgba(230, 226, 226, 0.84);"></i>&nbsp;&nbsp;Số 1, Võ Văn Ngân, Thủ Đức, TP Hồ Chí Minh, Việt Nam</li>
+											<li style="font-size: 14px;"><i class="fa fa-map-marker" style="font-size:20px;color:rgba(230, 226, 226, 0.84);"></i>&nbsp;&nbsp;Số 12, Trần Thái Tông, Thanh Xuân, Hà Nội</li>
 											<li style="font-size: 14px;padding-top: 15px;"><i class="fa fa-phone" style="font-size:20px;color:rgba(230, 226, 226, 0.84);"></i>&nbsp;&nbsp;(+84)1869123456</li>
-											<li style="font-size: 14px;padding-top: 15px;"><i class="fa fa-envelope" style="font-size:20px;color:rgba(230, 226, 226, 0.84);"></i>&nbsp;&nbsp;<a class="non-textdecoration lstfooter" href="#">itcenter2017@gmail.com</a></li>
+											<li style="font-size: 14px;padding-top: 15px;"><i class="fa fa-envelope" style="font-size:20px;color:rgba(230, 226, 226, 0.84);"></i>&nbsp;&nbsp;<a class="non-textdecoration lstfooter" href="#">itcenter2021@gmail.com</a></li>
 										</ul>
 									</div>
 							</div>
@@ -236,7 +176,7 @@
 			<div class="footer2-bottom">
 				<div class="container">
 					<div class="footer2-center">
-						© Copyright 2017. All Rights Reserved</br>Powered and Designed by Khang & Mỹ & Duyên
+						© Copyright 2021. All Rights Reserved</br>Powered and Designed by Nhóm 6 - CNPM
 					</div>
 				</div>
 			</div>

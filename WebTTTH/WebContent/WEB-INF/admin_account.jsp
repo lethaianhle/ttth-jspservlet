@@ -217,7 +217,7 @@
                             </div>
                             
                     		<div class="btn-group" style="margin-left: 10px; float: right; padding-right: 20px;">
-                            	<button type="submit" form="form1" name="action" value="reset" class="btn btn-default" onclick="return getConfirmation2();"/><span class="ti-reload"></span>&nbsp;&nbsp;Reset password</button>
+                            	<button type="submit" form="form1" name="action" value="reset" class="btn btn-default" onclick="return getConfirmation2();"/><span class="ti-reload"></span>&nbsp;&nbsp;Reset Mật Khẩu</button>
                     		</div>
                     		<div class="btn-group" style="margin-left: 10px; float: right; padding-right: 5px;">
                             	<button type="submit" form="form1" name="action" value="delete" class="btn btn-default" onclick="return getConfirmation();"/><span class="ti-trash"></span>&nbsp;&nbsp;Xóa</button>
@@ -313,7 +313,7 @@
                     </ul>
                 </nav>
                 <div class="copyright pull-right">
-                    &copy; <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by <a>Nhóm 6</a>
+                    &copy; <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by <a>Nhóm 6 - CNPM</a>
                 </div>
             </div>
         </footer>

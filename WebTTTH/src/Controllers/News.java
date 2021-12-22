@@ -28,10 +28,10 @@ public class News extends HttpServlet {
 		Connection conn = DBConnection.CreateConnection();
 		List<Bean.News> news=null;
 		List<Bean.News> news1=null;
-		if(request.getQueryString().length()>10) {
-			RequestDispatcher rd= request.getRequestDispatcher("/WEB-INF/Login.jsp");
-			rd.forward(request, response);
-		}else {
+//		if(request.getQueryString().length()>10) {
+//			RequestDispatcher rd= request.getRequestDispatcher("/WEB-INF/Login.jsp");
+//			rd.forward(request, response);
+//		}else {
 			if(request.getQueryString()!=null)
 			{
 				//Lấy thông tin từ resquest
@@ -60,7 +60,7 @@ public class News extends HttpServlet {
 			//
 			RequestDispatcher rd= request.getRequestDispatcher("/WEB-INF/TinTuc.jsp");
 			rd.forward(request, response);
-		}
+//		}
 	}
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

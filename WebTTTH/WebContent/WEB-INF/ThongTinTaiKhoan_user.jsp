@@ -355,8 +355,8 @@
 					<div class="body">
 					
 					<sql:setDataSource var="dbsource" driver="com.mysql.jdbc.Driver"
-                           url="jdbc:mysql://node6037-ttthweb.ocs.opusinteractive.io/web_ttth?useUnicode=true&characterEncoding=UTF-8"
-                           user="root"  password="QEFskb64114"/>
+                           url="jdbc:mysql://localhost/web_ttth"
+                           user="root"  password="123456"/>
  
 				       <sql:query dataSource="${dbsource}" var="result">
 				           select *
@@ -466,9 +466,9 @@
 								<h3 class="titlefooter">Contact</h3>
 									<div  style="padding-top: 17px;">
 										<ul class="textwidget">
-											<li style="font-size: 14px;"><i class="fa fa-map-marker" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;Số 1, Võ Văn Ngân, Thủ Đức, TP Hồ Chí Minh, Việt Nam</li>
+											<li style="font-size: 14px;"><i class="fa fa-map-marker" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;Số 12, Trần Thái Tông, Thanh Xuân, Hà Nội</li>
 											<li style="font-size: 14px;padding-top: 15px;"><i class="fa fa-phone" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;(+84)1869123456</li>
-											<li style="font-size: 14px;padding-top: 15px;"><i class="fa fa-envelope" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;<a class="non-textdecoration lstfooter" href="#">itcenter2017@gmail.com</a></li>
+											<li style="font-size: 14px;padding-top: 15px;"><i class="fa fa-envelope" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;<a class="non-textdecoration lstfooter" href="#">itcenter2021@gmail.com</a></li>
 										</ul>
 									</div>
 							</div>
@@ -479,7 +479,7 @@
 			<div class="footer-bottom">
 				<div class="container">
 					<div class="footer-center">
-						© Copyright 2017. All Rights Reserved</br>Powered and Designed by Khang &amp; Mỹ &amp; Duyên
+						© Copyright 2021. All Rights Reserved</br>Powered and Designed by Nhóm 6 - CNPM
 					</div>
 				</div>
 			</div>

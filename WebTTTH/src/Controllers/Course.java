@@ -32,10 +32,10 @@ public class Course extends HttpServlet {
 		List<course> course=null;
 		//
 		String topic_id = request.getParameter("topic_id");
-		if(topic_id.length() > 10) {
-			RequestDispatcher rd= request.getRequestDispatcher("/WEB-INF/Login.jsp");
-			rd.forward(request, response);
-		}else {
+//		if(topic_id != null) {
+//			RequestDispatcher rd= request.getRequestDispatcher("/WEB-INF/Login.jsp");
+//			rd.forward(request, response);
+//		}else {
 		
 			if (topic_id == null) {
 				request.setAttribute("id", 0);
@@ -54,7 +54,7 @@ public class Course extends HttpServlet {
 			//
 			RequestDispatcher rd= request.getRequestDispatcher("/WEB-INF/khoahoc.jsp");
 			rd.forward(request, response);
-		}
+//		}
 	}
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

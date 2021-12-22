@@ -34,7 +34,7 @@ public class XuLySendMail extends HttpServlet {
 		String Pass=request.getParameter("passEmail");
 		SendMail send=new SendMail();
 		try {
-			send.send("smtp.gmail.com", "daothimy46@gmail.com", mail, Pass,
+			send.send("smtp.gmail.com", "lethaianh26122000@gmail.com", mail, Pass,
 			       title, "From: "+name+", " +content);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block

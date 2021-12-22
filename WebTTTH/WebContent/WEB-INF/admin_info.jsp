@@ -142,7 +142,7 @@
                             </div>
                             <hr>
                             <div class="text-center" style="padding-bottom: 1px;">
-                                 <h5><a href="#" data-toggle="modal" data-target="#changeAvatar" style="color: #525252; font-size: 16px;">Change avatar</a></h5>
+                                 <h5><a href="#" data-toggle="modal" data-target="#changeAvatar" style="color: #525252; font-size: 16px;">Đổi ảnh đại diện</a></h5>
                             </div>
                         </div>
                     </div>
@@ -210,7 +210,7 @@
 
                                     
                                     <div style="float: left;">
-                                        <button type="submit" class="btn btn-info btn-fill btn-wd">Update Profile</button>
+                                        <button type="submit" class="btn btn-info btn-fill btn-wd">Cập Nhập</button>
                                     </div>
                                     <div style="float: right;">
                                         <h5><a href="#" data-toggle="modal" data-target="#changePass" style="color: #525252; font-size: 16px;">Đổi mật khẩu</a></h5>
@@ -311,7 +311,7 @@
                     </ul>
                 </nav>
                 <div class="copyright pull-right">
-                    &copy; <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by <a>Nhóm 6</a>
+                    &copy; <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by <a>Nhóm 6 - CNPM</a>
                 </div>
             </div>
         </footer>

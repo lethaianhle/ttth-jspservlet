@@ -141,7 +141,7 @@
 					</li>			
 					<%} %>							
 					<li class="sdt"><span class="glyphicon glyphicon-earphone"></span>(+84)98777777 </li>
-					<li class="gmail"><span class="	glyphicon glyphicon-envelope"></span>ITCENTER2017@GMAIL.COM</li>
+					<li class="gmail"><span class="	glyphicon glyphicon-envelope"></span>ITCENTER2021@GMAIL.COM</li>
 				</ul>
 			</div>
 		</div>
@@ -210,8 +210,8 @@
 	</div>
 	
 	<sql:setDataSource var="dbsource" driver="com.mysql.jdbc.Driver"
-                           url="jdbc:mysql://node6037-ttthweb.ocs.opusinteractive.io/web_ttth?useUnicode=true&characterEncoding=UTF-8"
-                           user="root"  password="QEFskb64114"/>
+                           url="jdbc:mysql://localhost/web_ttth"
+                           user="root"  password="123456"/>
  
 				       <sql:query dataSource="${dbsource}" var="result">
 				           select *
@@ -265,17 +265,6 @@
 			<div class="body" >
 			  
 			<h3 >DANH SÁCH LỚP
-			<div class="pull-right" style="font-size: 13px;">
-				<form method="get" action="Update_Point_Excel" enctype="multipart/form-data">
-					<input type="file" name="uploadFile"/>
-					<input type="hidden" value="<%=request.getParameter("class_id")%>" name="class_id">
-	   				
-						<button class="btn waves-effect waves-light" type="submit" style="color:black;">
-						<span class="btn-label" >
-					<i class="fa fa-upload" aria-hidden="true"></i>
-					</span>Update điểm</button>
-				</form>
-			</div>
 			</h3>
 			    <div class="table-header"><div class="pull-left">
 			    
@@ -321,17 +310,6 @@
 			        </tbody>
 			    </table>
 			    <div id="pageNavPosition" class="pagination pageCourse" style="padding-top: 10px; padding-bottom: 30px; float:right;" align="center"></div>
-			    <div id="table-footer" class="row">
-			    	<div class="pull-left table-info">
-			    		<a href="Print_List_Student?list=<%=request.getParameter("class_id")%>&list1=<%=request.getParameter("account_id")%>">
-			    		<button class="btn btn-instagram waves-effect waves-light" type="button">
-							<span class="btn-label" >
-								<i class="fa fa-print" aria-hidden="true"></i>
-							</span>Print
-						</button></a>
-						
-			    	</div>
-			    </div>
 			  <!--   </form> -->
 			    
 			</div>
@@ -379,9 +357,9 @@
 								<h3 class="titlefooter">Contact</h3>
 									<div  style="padding-top: 17px;">
 										<ul class="textwidget">
-											<li style="font-size: 14px;"><i class="fa fa-map-marker" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;Số 1, Võ Văn Ngân, Thủ Đức, TP Hồ Chí Minh, Việt Nam</li>
+											<li style="font-size: 14px;"><i class="fa fa-map-marker" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;Số 12, Trần Thái Tông, Thanh Xuân, Hà Nội</li>
 											<li style="font-size: 14px;padding-top: 15px;"><i class="fa fa-phone" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;(+84)1869123456</li>
-											<li style="font-size: 14px;padding-top: 15px;"><i class="fa fa-envelope" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;<a class="non-textdecoration lstfooter" href="#">itcenter2017@gmail.com</a></li>
+											<li style="font-size: 14px;padding-top: 15px;"><i class="fa fa-envelope" style="font-size:20px;color:#080707;"></i>&nbsp;&nbsp;<a class="non-textdecoration lstfooter" href="#">itcenter2021@gmail.com</a></li>
 										</ul>
 									</div>
 							</div>
@@ -392,7 +370,7 @@
 			<div class="footer-bottom">
 				<div class="container">
 					<div class="footer-center">
-						© Copyright 2017. All Rights Reserved</br>Powered and Designed by Khang &amp; Mỹ &amp; Duyên
+						© Copyright 2021. All Rights Reserved</br>Powered and Designed by Nhóm 6 - CNPM
 					</div>
 				</div>
 			</div>

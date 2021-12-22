@@ -162,6 +162,16 @@
                                             </div>
                                         </div>
                                     </div>
+                                    
+                                     <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="form-group">
+                                                <label>Mật Khẩu</label>
+                                                <input type="password" name="password" class="form-control border-input" placeholder="Password" required>
+                                            </div>
+                                        </div>
+                                    </div>                                  
+                                    
 
                                     <div class="row">
                                         <div class="col-md-12">

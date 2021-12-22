@@ -73,7 +73,7 @@
 					</li>			
 					<%} %>							
 					<li class="sdt"><span class="glyphicon glyphicon-earphone"></span>(+84)98777777 </li>
-					<li class="gmail"><span class="	glyphicon glyphicon-envelope"></span>ITCENTER2017@GMAIL.COM</li>
+					<li class="gmail"><span class="	glyphicon glyphicon-envelope"></span>ITCENTER2021@GMAIL.COM</li>
 				</ul>
 			</div>
 		</div>
@@ -341,8 +341,8 @@
 						<div class="body">
 						
 						<sql:setDataSource var="dbsource" driver="com.mysql.jdbc.Driver"
-                           url="jdbc:mysql://node6037-ttthweb.ocs.opusinteractive.io/web_ttth?useUnicode=true&characterEncoding=UTF-8"
-                           user="root"  password="QEFskb64114"/>
+                           url="jdbc:mysql://localhost/web_ttth"
+                           user="root"  password="123456"/>
  
 				       <sql:query dataSource="${dbsource}" var="result">
 				           select *
