@@ -125,7 +125,7 @@
             	<div class="row">
                		<div class="btn-group" style=" padding-bottom: 15px;padding-left: 20px;">
                            <a href="courseAdmin" type="button" class="btn btn-default">
-                             <i class="ti-arrow-left"></i>&nbsp;&nbsp;back
+                             <i class="ti-arrow-left"></i>&nbsp;&nbsp;Quay Lại
                            </a>
                     </div>
                	</div>

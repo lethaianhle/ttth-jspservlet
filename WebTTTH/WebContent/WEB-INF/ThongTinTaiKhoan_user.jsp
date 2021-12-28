@@ -375,12 +375,12 @@
 				        <table class="table table-hover" id="myTable">
 				            <thead>
 				            <tr style="cursor: pointer;" class="header">
-				                <th><span class="sort-element" onclick="sortTable(0)">#ClassName</span></th>
-				                <th><span class="sort-element" onclick="sortTable(1)">CourseName</span></th>
-				                <th><span class="sort-element">StartDay</span></th>
-				                <th><span class="sort-element">EndDay</span></th>
-				                <th><span class="sort-element">TimeStudy</span></th>
-				                <th><span class="sort-element">Edit</span></th>
+				                <th><span class="sort-element" onclick="sortTable(0)">Tên Lớp Học</span></th>
+				                <th><span class="sort-element" onclick="sortTable(1)">Tên Khóa Học</span></th>
+				                <th><span class="sort-element">Ngày Bắt Đầu</span></th>
+				                <th><span class="sort-element">Ngày Kết Thúc</span></th>
+				                <th><span class="sort-element">Lịch Học</span></th>
+				                <th><span class="sort-element">Tùy Chỉnh</span></th>
 				            </tr>
 				            </thead>
 				            <tbody>
@@ -408,11 +408,9 @@
 				                <c:forEach var="row2" items="${result.rows}">
 				               
 				                <td>
-				              					  <a class="button button-small list"  href="DeleteStudentClass?sc_id=${row2.sc_id}" title="Edit">
-				                       <c:if test="${row2.confirm=='0'}">
+				              		<a class="button button-small list"  href="DeleteStudentClass?sc_id=${row2.sc_id}" title="Edit">
 				                        <button>Hủy đăng kí </button>
-				                       </c:if>
-					                            </a>
+					                </a>
 				                </td>
 				                </c:forEach>
 				            </tr>

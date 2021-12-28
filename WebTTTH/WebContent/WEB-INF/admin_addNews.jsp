@@ -128,7 +128,7 @@
                     	<div class="row">
                     		<div class="btn-group" style=" padding-bottom: 15px;padding-left: 20px;">
                                 <a href="newsAdmin" type="button" class="btn btn-default">
-                                  <i class="ti-arrow-left"></i>&nbsp;&nbsp;back
+                                  <i class="ti-arrow-left"></i>&nbsp;&nbsp;Quay Lại
                                 </a>
                             </div>
                     	</div>
@@ -159,7 +159,7 @@
                                         <div class="col-md-12">
                                             <div class="form-group">
                                                 <label>Tiêu đề</label>
-                                                <textarea rows="2" class="form-control border-input" name="title" placeholder="Title"></textarea>
+                                                <textarea rows="2" class="form-control border-input" name="title" placeholder="Nhập tiêu đề"></textarea>
                                             </div>
                                         </div>
                                     </div>
@@ -167,14 +167,14 @@
                                         <div class="col-md-12">
                                             <div class="form-group">
                                                 <label>Nội dung</label>
-                                                <textarea rows="7" class="form-control border-input" name="content" placeholder="Content"></textarea>
+                                                <textarea rows="7" class="form-control border-input" name="content" placeholder="Nhập nội dung"></textarea>
                                             </div>
                                         </div>
                                     </div>
                                     
                                     
                                     <div>
-                                        <button type="submit" class="btn btn-info btn-fill btn-wd">Add</button>
+                                        <button type="submit" class="btn btn-info btn-fill btn-wd">Thêm mới</button>
                                     </div>
                                     <div class="clearfix"></div>
 

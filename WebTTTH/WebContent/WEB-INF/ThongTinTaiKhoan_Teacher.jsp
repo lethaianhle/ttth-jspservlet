@@ -360,12 +360,12 @@
 					        <table class="table table-hover" id="myTable">
 					            <thead>
 					            <tr style="cursor: pointer;" class="header">
-					                <th><span class="sort-element" onclick="sortTable(0)">#ClassID</span></span></th>
-					                <th><span class="sort-element" onclick="sortTable(1)">ClassName</span></th>
-					                <th class="hiden_startday"><span class="sort-element">StartDay</span></th>
-					                <th><span class="sort-element">EndDay</span></th>
-					                <th><span class="sort-element">Time</span></th>
-					                <th><span class="sort-element">List_St</span></th>
+					                <th><span class="sort-element" onclick="sortTable(0)">Mã Lớp Học</span></span></th>
+					                <th><span class="sort-element" onclick="sortTable(1)">Tên Lớp Học</span></th>
+					                <th class="hiden_startday"><span class="sort-element">Ngày Bắt Đầu</span></th>
+					                <th><span class="sort-element">Ngày Kết Thúc</span></th>
+					                <th><span class="sort-element">Lịch Học</span></th>
+					                <th><span class="sort-element">Ds Học Viên</span></th>
 					            </tr>
 					            </thead>
 					            <tbody>

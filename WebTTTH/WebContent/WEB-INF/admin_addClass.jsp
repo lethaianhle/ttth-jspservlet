@@ -127,7 +127,7 @@
                     	<div class="row">
                     		<div class="btn-group" style=" padding-bottom: 15px;padding-left: 20px;">
                                 <a href="classAdmin" type="button" class="btn btn-default">
-                                  <i class="ti-arrow-left"></i>&nbsp;&nbsp;back
+                                  <i class="ti-arrow-left"></i>&nbsp;&nbsp;Quay Lại
                                 </a>
                             </div>
                     	</div>
@@ -198,7 +198,7 @@
                                     </div>
                                     
                                     <div style="padding-top: 15px;">
-                                        <button type="submit" class="btn btn-info btn-fill btn-wd">Add</button>
+                                        <button type="submit" class="btn btn-info btn-fill btn-wd">Thêm mới</button>
                                     </div>
                                     <div class="clearfix"></div>
 
